@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+ip_report.csv
+ip_report.xlsx
